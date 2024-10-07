@@ -1,4 +1,5 @@
 # Breast Cancer Prediction Model
+![](BreastCancer.png)
 
 ## Project Overview
 This project uses a machine learning model to predict breast cancer diagnosis (benign or malignant) based on input features from a dataset. The dataset includes key clinical attributes that can help detect breast cancer early.
